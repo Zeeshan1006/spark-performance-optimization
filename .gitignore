@@ -1,2 +1,12 @@
 # Ignore all CSV files
 *.csv
+
+.databricks
+
+.databricks
+
+.databricks
+
+.databricks
+
+.databricks
